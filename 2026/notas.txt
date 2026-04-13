@@ -1,0 +1,11 @@
+- El logo de floriambra hace referencia a la hoja de acanto.
+
+Es una planta del Mediterráneo que ha sido usada desde la Antigua Grecia en capiteles corintios y diseños decorativos. No es una hoja botánica realista
+ aquí, sino una interpretación estilizada típica del arte decorativo.
+
+ - La fuente usada para el letrero de floriambra es ( Howie's Funhouse )
+- character spacing -10
+- Acpect Ratio 0.9
+- color #ff1128 rgb 255, 17, 40
+ 
+
